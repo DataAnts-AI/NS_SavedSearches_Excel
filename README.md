@@ -72,3 +72,6 @@ Supports periodic auto-refresh functionality to maintain updated data without ma
 
 ## Support
 For assistance or reporting issues, please open an issue on GitHub.
+
+**For further assistance or reporting issues, please open an issue on GitHub.
+Reach out to support@dataants.org if you need assistance deploying this. We also have a paid desktop app with a one click install option**
