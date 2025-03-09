@@ -1,7 +1,7 @@
-# NetSuite-Streamlit Integration
+# NetSuite-Saved Searches to Excel workbook
 
 ## Overview
-This repository integrates NetSuite ERP saved searches with a Streamlit web application using a NetSuite RESTlet.
+This repository allows you to download multiple NetSuite ERP saved searches to an Excel workbook dynamically using a Streamlit web application via RESTlets.
 
 <img width="671" alt="image" src="https://github.com/user-attachments/assets/49609bb3-0aa6-4f65-94d3-bc4d2adc1635" />
 
