@@ -49,6 +49,9 @@ NS_DEPLOY_ID = "your_deploy_id"
 - Deploy as a RESTlet, set status to **Released**, and record script and deploy IDs
 
 ## Usage
+in the root folder - open command prompt 
+
+streamlit run ns_ss_refresh.py
 
 ### Choose Operation
 A radio button allows users to select between:
